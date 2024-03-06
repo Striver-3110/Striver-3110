@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jay Prajapati </h1>
-<h3 align="center">Welcome to my GitHub! I'm passionate about creating robust and scalable web applications using the MERN (MongoDB, Express.js, React, Node.js) stack. Here's a bit about what you'll find in my repositories:</h3>
+<h3 align="center">Welcome to my GitHub! I'm passionate about creating robust and scalable web applications using the <p style="color:pink">MERN</p> (MongoDB, Express.js, React, Node.js) stack. Here's a bit about what you'll find in my repositories:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=striver-3110&label=Profile%20views&color=0e75b6&style=flat" alt="striver-3110" /> </p>
 
