@@ -1,3 +1,13 @@
+
+###
+<div align="center">  
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&center=true&duration=4700&lines=Always+happy+to+learn+new+stuff.;I+am+open+to+new+opportunities.)](https://github.com/Striver-3110/#)
+</div>
+<a href="#"><img src="./assets/dBaSKWF.gif" height="30" width="100%"></a>
+
+###
+
 <h1 align="center">Hi, I'm Jay Prajapati </h1>
 <h3 align="center">Welcome to my GitHub! I'm passionate about creating robust and scalable web applications using the MERN (MongoDB, Express.js, React, Node.js) stack. Here's a bit about what you'll find in my repositories:</h3>
 
