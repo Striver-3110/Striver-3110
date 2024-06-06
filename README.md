@@ -30,12 +30,56 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon"  width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>   <a style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"  width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>   <a href="#"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" /></a> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <a style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon"  width="40" height="40"/></a><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /></a><a style="display: flex; align-items: flex-start; background-color:white;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon"  width="40" height="40" /></a></p>
+<a style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" style="background-color: white;" />
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="background-color: white;" />
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: white;" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="background-color: white;" />
+</a>
+<a style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" style="background-color: white;" />
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="background-color: white;" />
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="background-color: white;" />
+</a>
+<a href="#">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" style="background-color: white;" />
+</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="background-color: white;" />
+<a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="background-color: white;" />
+</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <a style="display: flex; align-items: flex-start;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" style="background-color: white;" />
+    </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="background-color: white;" />
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="background-color: white;" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="background-color: white;" />
+</a>
+<a href="#">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" style="background-color: white;" />
+</a>
+<a style="display: flex; align-items: flex-start; background-color:white;">
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" style="background-color: white;" />
+</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=striver-3110&show_icons=true&locale=en&layout=compact" alt="striver-3110" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=striver-3110&show_icons=true&locale=en" alt="striver-3110" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=striver-3110&" alt="striver-3110" /></p>
+
