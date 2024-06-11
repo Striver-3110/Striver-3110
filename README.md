@@ -82,4 +82,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=striver-3110&show_icons=true&locale=en" alt="striver-3110" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=striver-3110&" alt="striver-3110" /></p>
+---
+
+## **Github Stats:**
+
+<p align="center">
+  
+  ![Striver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Striver-3110&count_private=true&show_icons=true&theme=vision-friendly-dark&line_height=40)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Striver-3110&hide=html,css&theme=vision-friendly-dark&count_private=true&line_height=40)
+
+</p>
+<p align = "center">
+  
+[![Striver's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Striver-3110&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</p>
+
+---
 
