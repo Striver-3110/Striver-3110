@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Competative programming**
 
-- 💬 Ask me about **react.js ,mongodb, express.js and node.js**
+- 💬 Ask me about **react.js ,mongodb, express.js ,node.js, PHP and MySQL**
 
 - 📫 How to reach me **prajapatijay31100@gmail.com**
 
