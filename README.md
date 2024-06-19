@@ -80,6 +80,7 @@
 
 ## **Certification**
   [SQL Basic](https://www.hackerrank.com/certificates/41cab2e35d0a)
+  [SQL Intermediate](https://www.hackerrank.com/certificates/iframe/8b3506a770b6)
 
 ## **Github Stats:**
 <p align="center">
