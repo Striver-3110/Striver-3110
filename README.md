@@ -71,7 +71,15 @@
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" style="background-color: white;" />
 </a>
 
+## **Challenge Completed**  
+<div style="display: flex; align-items: center; list-style: none; padding-left: 0; height:60px" align="center">
+  <a href="https://leetcode.com/studyplan/top-sql-50/">
+    <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="SQL50" height="60"> 
+  </a>
+</div>
 
+## **Certification**
+  [SQL Basic](https://www.hackerrank.com/certificates/41cab2e35d0a)
 
 ## **Github Stats:**
 <p align="center">
